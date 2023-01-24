@@ -1,0 +1,5 @@
+global değişken shopList
+
+onload get etmesi lazım
+yoksa boş array
+
