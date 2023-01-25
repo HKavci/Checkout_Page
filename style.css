@@ -129,6 +129,23 @@
     border: none;
   }
   
+  #subtotal::before{
+    content: "$ ";
+  }
+
+  #tax::before{
+    content: "$ ";
+  }
+
+  #shipping::before{
+    content: "$ ";
+  }
+
+  #sum::before{
+    content: "$ ";
+  }
+
+
   
   
   
